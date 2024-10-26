@@ -1,0 +1,21 @@
+{
+    "theme": "Dark",
+    "modules": [
+        {
+            "name": "Calender",
+            "use": true 
+        },
+        {
+            "name": "GabitTracker",
+            "use": true 
+        },
+        {
+            "name": "Notes",
+            "use": true 
+        },
+        {
+            "name": "ToDo",
+            "use": true 
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+/* Colors */
+.bg-primary{
+    background-color: #212121;
+}
+.bg-secondary{
+    background-color: #272e3f;
+}
+.bg-light{
+    background-color: #38454c
+}
+.bg-dark{
+    background-color: #181818;
+}
+
+.text-primary{
+    color: aliceblue;
+}
+.text-secondary{
+    color: lightsteelblue;
+}
+.text-light{
+    color: #ffffff;
+}
+.text-dark{
+    color: #b4b4b4;
+}
+
+.border-primary{
+
+}
+.border-secondary{
+
+}
+.border-light{
+
+}
+.border-dark{
+
+}
